@@ -6,3 +6,6 @@
 * Generates multiple random passwords with customizable lengths.
 * Uses a combination of letters (uppercase and lowercase), digits (0-9), and special characters for increased security.
 * Ensures each generated password meets a minimum length requirement of 3 characters.
+* python generate_passwords.py
+python generate_passwords.py
+
